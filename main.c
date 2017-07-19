@@ -742,7 +742,8 @@ void _start(void)
 	SDL_Init(SDL_INIT_AUDIO|SDL_INIT_VIDEO); //not necessary in Linux
 #endif
 #ifdef SDL
-	SDL_SetVideoMode(w, h, 0, SDL_OPENGL|SDL_FULLSCREEN);
+	SDL_SetVideoMode(w, h, 0, SDL_OPENGL);
+	SDL_WM_SetCaption("kartoonikum by ExHouse & NecroStudios",NULL);
 #endif
 
 #ifndef OS_X
