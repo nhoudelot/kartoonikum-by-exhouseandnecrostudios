@@ -9,39 +9,39 @@
 
 ExHouse & NecroStudios presents:
 
-Kartoonikum 4K
-8th at Assembly'07
+Kartoonikum 4K  
+8th at Assembly'07  
 
-entropia - add.design
-slack    - code, music  -> slack at codemaniacs dot com
-waffle   - code, design -> iwaffle at gmail dot com
+entropia - add.design  
+slack    - code, music  -> slack at codemaniacs dot com  
+waffle   - code, design -> iwaffle at gmail dot com  
 
 ## Who we want to greet
 
-accession
-aspekt
-brainstorm
-collapse
-dekadence
-fit
-immersion
-lft
-loonies
-matt current
-mfx
-pittsburgh stallers
-pwp
-satori
-traction
-uemlaeut design
-youth uprising
-wamma
+accession  
+aspekt  
+brainstorm  
+collapse  
+dekadence  
+fit  
+immersion  
+lft  
+loonies  
+matt current  
+mfx  
+pittsburgh stallers  
+pwp  
+satori  
+traction  
+uemlaeut design  
+youth uprising  
+wamma  
 
 ## license
 
-Creative Commons
-Attribution-NonCommercial-ShareAlike 3.0 Unported
-( http://creativecommons.org/licenses/by-nc-sa/3.0/ )
+Creative Commons  
+Attribution-NonCommercial-ShareAlike 3.0 Unported  
+( http://creativecommons.org/licenses/by-nc-sa/3.0/ )  
 
 You are free:
 * to Share - to copy, distribute and transmit the work
