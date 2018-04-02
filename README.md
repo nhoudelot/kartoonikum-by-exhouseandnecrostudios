@@ -18,9 +18,9 @@ ExHouse & NecroStudios presents:
 Kartoonikum 4K  
 8th at Assembly'07  
 
-entropia - add.design  
-slack    - code, music  -> slack at codemaniacs dot com  
-waffle   - code, design -> iwaffle at gmail dot com  
+- **entropia** - add.design  
+- **slack**    - code, music  → slack at codemaniacs dot com  
+- **waffle**   - code, design → iwaffle at gmail dot com  
 
 ## Who we want to greet
 
